@@ -4,7 +4,7 @@ import speech_recognition as sr
 import pyttsx3
 
 
-AI_API_KEY = "e8f4be3eaa9f4b70bfde14333d6295f4"
+AI_API_KEY = #place yout AI/ML API key
 
 #Variables for AI/ML API
 base_url = "https://api.aimlapi.com/v1"
@@ -41,7 +41,7 @@ def execute_command(command):
 # Function to interact with AI API
 def get_AI_response(user_prompt):
     completion = api.chat.completions.create(
-        model="mistralai/Mistral-7B-Instruct-v0.2",
+        model="mistralai/Mistral-7B-Instruct-v0.2", #you can choose a diffrent model
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
