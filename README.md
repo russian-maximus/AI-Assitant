@@ -24,7 +24,10 @@ You can give it voice commands like:
 **Customization**  
 
 You can customize the assistant to handle more commands by modifying the execite_command() function  
-And adding the keyword(s) in the elif statement in the main() function on line 86
+And adding the keyword(s) for the identification of the command in the elif statement in the main() function on line 86
+
+Add your keyword(s) for the identification of the command with another "or" operator  
+'elif "open browser" in spoken_text or "open youtube" in spoken_text:'
 
 **LICENSE**  
 
