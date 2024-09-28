@@ -1,5 +1,5 @@
-This project is an AI Voice Assistant written in Python, capable of recognizing voice commands, executing certain system tasks like opening a web browser, and answering questions using the power of AI (AI/ML service API with ).  
-The assistant is designed to help you automate routine tasks, combining voice recognition, Natural Language Processing (NLP), and AI.  
+This project is an AI Voice Assistant written in Python, capable of recognizing voice commands, executing certain system tasks like opening a web browser, and answering questions using the power of AI (AI/ML service API with a large collection of models).  
+The Assistant is designed to help you automate routine tasks, combining voice recognition, Natural Language Processing (NLP), and AI.  
 
 **Features**  
 
