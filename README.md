@@ -21,7 +21,7 @@ You can give it voice commands like:
   "Open youutbe" – It will open your youtube.  
   "exit" - will close the Assitant  
 
-##**Customization**  
+**Customization**  
 
 You can customize the assistant to handle more commands by modifying the execite_command() function  
 
