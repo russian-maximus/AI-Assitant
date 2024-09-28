@@ -25,4 +25,9 @@ You can give it voice commands like:
 
 You can customize the assistant to handle more commands by modifying the execite_command() function  
 
+**LICENSE**  
+
+This project is licensed under the MIT License.  
+
+
   
