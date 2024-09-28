@@ -15,6 +15,7 @@ pyttsx3 -> A text-to-speech conversion library for responding back to the user.
 AI/ML API -> To provide AI-based answers and conversations. (https://aimlapi.com)  
 
 **How It Works**  
+
 The AI Assistant will start by listening to your commands through the microphone.  
 You can give it voice commands like:  
   "Open browser" – It will open your default web browser.  
