@@ -4,7 +4,7 @@ import speech_recognition as sr
 import pyttsx3
 
 
-AI_API_KEY = #place yout AI/ML API key
+#AI_API_KEY = place yout AI/ML API key
 
 #Variables for AI/ML API
 base_url = "https://api.aimlapi.com/v1"
