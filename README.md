@@ -27,7 +27,9 @@ You can customize the assistant to handle more commands by modifying the execite
 And adding the keyword(s) for the identification of the command in the elif statement in the main() function on line 86
 
 Add your keyword(s) for the identification of the command with another "or" operator  
-'elif "open browser" in spoken_text or "open youtube" in spoken_text:'
+'''
+elif "open browser" in spoken_text or "open youtube" in spoken_text:
+'''
 
 **LICENSE**  
 
