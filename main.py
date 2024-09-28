@@ -83,10 +83,7 @@ def main():
             speak("Goodbye!")
             break
 
-        elif "open browser" in spoken_text or "shutdown" in spoken_text:
-            response = execute_command(spoken_text)
-
-        elif "open youtube" in spoken_text:
+        elif "open browser" in spoken_text or "open youtube" in spoken_text:
             response = execute_command(spoken_text)
         
         elif spoken_text == "Sorry, I didn't catch that. Please try again.":
