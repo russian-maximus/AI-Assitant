@@ -24,6 +24,7 @@ You can give it voice commands like:
 **Customization**  
 
 You can customize the assistant to handle more commands by modifying the execite_command() function  
+And adding the keyword(s) in the elif statement in the main() function on line 86
 
 **LICENSE**  
 
